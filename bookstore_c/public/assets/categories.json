@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "title": "Autobiography",
+        "sort_order": 4,
+        "status": 1
+    },
+    {
+        "id": 2,
+        "title": "Drama",
+        "sort_order": 1,
+        "status": 1
+    },
+    {
+        "id": 3,
+        "title": "Fiction",
+        "sort_order": 5,
+        "status": 1
+    },
+    {
+        "id": 4,
+        "title": "History",
+        "sort_order": 2,
+        "status": 1
+    },
+    {
+        "id": 5,
+        "title": "Study aids",
+        "sort_order": 3,
+        "status": 1
+    }
+]
